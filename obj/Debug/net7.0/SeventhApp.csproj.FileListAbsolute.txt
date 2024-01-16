@@ -1,0 +1,15 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\bin\Debug\net7.0\SeventhApp.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\bin\Debug\net7.0\SeventhApp.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\bin\Debug\net7.0\SeventhApp.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\bin\Debug\net7.0\SeventhApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\bin\Debug\net7.0\SeventhApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\refint\SeventhApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\SeventhApp.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\SeventhApp\SeventhApp\obj\Debug\net7.0\ref\SeventhApp.dll
